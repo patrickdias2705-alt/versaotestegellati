@@ -1,0 +1,23 @@
+🎆 INSTRUÇÕES PARA BAIXAR O VÍDEO DE FOGOS DE ARTIFÍCIO 🎆
+
+1. Acesse este link:
+   https://pt.pikbest.com/video/4k-c%C3%A9u-noturno-florescendo-fogos-de-artif%C3%ADcio-lindo-v%C3%ADdeo-piscando_5711800.html
+
+2. Faça o download do vídeo em formato MP4
+
+3. Renomeie o arquivo para: fireworks-video.mp4
+
+4. Coloque o arquivo na pasta: assets/
+
+5. O site automaticamente detectará e usará o vídeo como fundo!
+
+📁 Estrutura final:
+fogos de artificio/
+├── assets/
+│   └── fireworks-video.mp4  ← Coloque o vídeo aqui
+├── index.html
+├── styles.css
+└── script.js
+
+🎬 O vídeo ficará como fundo da página inicial com fogos de artifício reais!
+
